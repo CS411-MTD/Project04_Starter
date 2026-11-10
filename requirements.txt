@@ -1,0 +1,5 @@
+# UIC CS 411 - Project 04 Requirements
+# This project uses only the Python Standard Library (math, time, random, sys, argparse).
+# No external pip dependencies are required.
+# Python >= 3.8 recommended.
+
